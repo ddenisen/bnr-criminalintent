@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/bnr-criminalintent.iml" filepath="$PROJECT_DIR$/bnr-criminalintent.iml" />
+      <module fileurl="file:///usr/local/opt/android-sdk/extras/android/support/v13/src/v13.iml" filepath="/usr/local/opt/android-sdk/extras/android/support/v13/src/v13.iml" />
+    </modules>
+  </component>
+</project>
+
